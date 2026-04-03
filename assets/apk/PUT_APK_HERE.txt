@@ -1,0 +1,6 @@
+Upload your BADR APK in this folder with the exact filename:
+
+badr.apk
+
+Expected path:
+assets/apk/badr.apk
